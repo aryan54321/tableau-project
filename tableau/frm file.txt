@@ -1,0 +1,25 @@
+1.) Best Customers – This group consists of those customers who are found in R-Tier-4, F-Tier-4 and M-Tier-3 or 4, meaning that they transacted recently, 
+do so often and spend more than other customers. The shortened notations for this segment are 4-4-3 and 4-4-4; we’ll use these notation going forward.
+
+1. Best Customer : R-4, F-4, M-3,4 (443, 444)
+
+2.) High-spending New Customers – This group consists of those customers in 4-1-3 and 4-1-4. These are customers who transacted only once, but very recently 
+and they spent a lot.
+
+2)2. High-spending New Customers : R-4, F-1, M-3,4 (413, 414)
+
+3.) Lowest-Spending Active Loyal Customers – This group consists of those customers in segments 4-3-1, 4-3-2, 4-4-1 and 4-4-2 (they transacted recently 
+and do so often, but spend the least).
+
+3. Lowest-Spending Active Loyal Customers : R-4, F-3,4, M-1,2 (431, 432, 441, 442)
+
+4.) Churned Best Customers – This segment consists of those customers in groups 1-1-3, 1-1-4, 1-2-3 and 1-2-4 (they transacted frequently and spent a lot, 
+but it’s been a long time since they’ve transacted).
+
+4. Churned Best Customers : R-1, F-1,2, M-3,4 (113, 114, 123, 124)
+
+5.) Other Customers or MVP (Minimum Viable Person) - These are those customers who do not fall under any of the above customer classifications.
+
+5. Other Customers or MVP (Minimum Viable Person) - Trh remaining customers
+
+5. Other Customers or MVP (Minimum Viable Person) - The remaining customers
